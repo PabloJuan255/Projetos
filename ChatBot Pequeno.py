@@ -30,4 +30,4 @@ while(True):
   if Answer == "About me":   
    print('AI:I’m was raised on 2019/12/13, including a simplified,because my Creator does not understand how to install a ChatBot in Python.')
   else: 
-   print('AI:I’m a joke to you?')
+   print('AI:ERROR!')
