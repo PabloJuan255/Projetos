@@ -1,5 +1,5 @@
-Hi i am Pablo Juan,
+Hi! My name is Pablo Juan,
 I am new in GitHub! 
 
-Olá eu sou Pablo,
+Olá! eu sou Pablo Juan,
 Eu sou novo no GitHub!
